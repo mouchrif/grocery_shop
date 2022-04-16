@@ -16,3 +16,9 @@ this app is developed with MVC archetecture , state management with Getx
 # ScreenShots
 <img src="assets/screenshots/screen_1.png" width="200" height="auto"/>
 <img src="assets/screenshots/screen_2.png" width="200" height="auto"/>
+<img src="assets/screenshots/screen_3.png" width="200" height="auto"/>
+<img src="assets/screenshots/screen_4.png" width="200" height="auto"/>
+<img src="assets/screenshots/screen_5.png" width="200" height="auto"/>
+<img src="assets/screenshots/screen_6.png" width="200" height="auto"/>
+<img src="assets/screenshots/screen_7.png" width="200" height="auto"/>
+<img src="assets/screenshots/screen_8.png" width="200" height="auto"/>
